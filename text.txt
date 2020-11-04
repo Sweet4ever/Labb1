@@ -1,0 +1,12 @@
+C:\Users\Oskar Pilborg\Documents\github\labb1>git log
+commit 22eae9ea8dbf7a615eeecc1d5a0783a77b678edf (HEAD -> branch1, origin/branch1)
+Author: Sweet4ever <oskpil@gmail.com>
+Date:   Wed Nov 4 13:00:32 2020 +0100
+
+    added text file
+
+commit fc4113aadc2b948a0c5ae4e6941954e5bc719535 (origin/master, master)
+Author: Sweet4ever <oskpil@gmail.com>
+Date:   Wed Nov 4 12:58:00 2020 +0100
+
+    first commit
